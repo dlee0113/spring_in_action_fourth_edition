@@ -3,7 +3,7 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 
 jar {
-    baseName = 'stereo-xmlconfig'
+    baseName = 'stereo-javaconfig'
     version =  '0.0.1-SNAPSHOT'
 }
 
